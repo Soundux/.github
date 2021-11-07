@@ -24,15 +24,15 @@ This organization hosts the source-code of Soundux and all its components.
 
 Apart from the <kbd>Soundux</kbd> repository things of interest may be:
 - [🚀 Soundux-UI](https://github.com/Soundux/soundux-ui)
-  > The source code of Soundux' frontend
+  > The source code of Soundux's frontend
 - [🕸 Soundux-Website](https://github.com/Soundux/soundux.github.io)
   > The source code of our website
 - The libraries that we develop
   - [🔐 lockpp](https://github.com/Soundux/lockpp)
     > A C++17 Library that provides mutex protected objects 
   - [💂 guardpp](https://github.com/Soundux/guardpp)
-    > A cross-platform C++17 library that can restrict your application to a single instance.
+    > A cross-platform C++17 library that can restrict your application to a single instance
   - [📸 iconpp](https://github.com/Soundux/iconpp)
-    > A C++17 library that allows you to grab an applications icon on linux 
+    > A C++17 library that allows you to grab an application's icon on Linux 
   - [🛩️ traypp](https://github.com/Soundux/traypp)
     > A cross-platform C++ system tray library 
