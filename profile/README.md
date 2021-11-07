@@ -1,4 +1,4 @@
-<p align="center"> <img src="../assets/logo.gif" height=150> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Soundux/Soundux/master/assets/logo.gif" height=150> </p>
 
 <h1 align="center"> Soundux </h1>
 <p align="center">
