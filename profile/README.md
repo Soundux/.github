@@ -15,7 +15,7 @@ Quick Links:
 - [🆘 Report a problem / 💡 Request a feature](https://github.com/Soundux/Soundux/issues/new/choose)
 - [🌎 Help us translate](https://hosted.weblate.org/engage/soundux/)
 - [📥 Install Soundux](https://soundux.rocks/download)
-- [🪄 Feature Preview](https://soundux.rocks/features)
+- [🎉 Feature Preview](https://soundux.rocks/features)
 - [👀 Screenshots](https://soundux.rocks/screenshots)
 - [❔ FAQ](https://soundux.rocks/faq)
 
