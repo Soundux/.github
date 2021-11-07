@@ -36,3 +36,7 @@ Apart from the <kbd>Soundux</kbd> repository things of interest may be:
     > A C++17 library that allows you to grab an application's icon on Linux 
   - [🛩️ traypp](https://github.com/Soundux/traypp)
     > A cross-platform C++ system tray library 
+
+## 💖 Support us
+In case you like our projects and may want to support us you can do so here:
+- [☕ KoFi](https://ko-fi.com/soundux)
